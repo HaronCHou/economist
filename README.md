@@ -1,4 +1,4 @@
-<img width="1171" height="1342" alt="image" src="https://github.com/user-attachments/assets/1744c070-c065-4362-9497-69d049819d41" /># economist
-
 ### Bartleby
-- 
+
+- [2025-10-25](2025-10-25.md) Beware the "romance of leadership”When it comes to bosses, one size does not fit all **警惕领导力的浪漫化**
+-
